@@ -1,15 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #c1cece;
     margin: 0;
     padding: 0;
+    background-image: url('https://ibb.co/9GRSYkV');
 }
 
 .container {
     width: 400px;
     margin: 50px auto;
     padding: 20px;
-    background-color: white;
+    background-color:#0a4a3ce4;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
@@ -35,7 +36,7 @@ input, select, button {
 }
 
 button {
-    background-color: #28a745;
+    background-color: #101111;
     color: white;
     cursor: pointer;
     margin-top: 20px;
